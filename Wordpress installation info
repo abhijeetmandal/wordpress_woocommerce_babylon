@@ -1,0 +1,43 @@
+Wordpress installation info
+
+Welcome to WordPress. Before getting started, we need some information on the database. You will need to know the following items before proceeding.
+
+Database name: wp1db
+Database username: wp1user
+Database password: wp1pass
+Database host: localhost
+Table prefix (if you want to run more than one WordPress in a single database)
+We’re going to use this information to create a wp-config.php file. If for any reason this automatic file creation doesn’t work, don’t worry. All this does is fill in the database information to a configuration file. You may also simply open wp-config-sample.php in a text editor, fill in your information, and save it as wp-config.php. Need more help? We got it.
+
+In all likelihood, these items were supplied to you by your Web Host. If you don’t have this information, then you will need to contact them before you can continue. If you’re all ready…
+
+
+----
+
+WordPress has been installed. Thank you, and enjoy!
+
+Username: admin
+Password: v1kNAPTYPhYLAAomL!
+Note that password carefully! It is a random password that was generated just for you.
+
+
+---------
+Manual installation
+
+Manual installation method requires downloading the WooCommerce plugin and uploading it to your web server via your favorite FTP application. The WordPress codex contains instructions on how to do this here.
+
+Downloaded: woocommerce.5.0.0.zip
+
+Copy the plugin folder to the wp-content/plugins folder in your WordPress directory. This installs the plugin to your WordPress site.
+Navigate to your Plugins admin screen and locate the newly uploaded plugin in the list.
+Click the plugin’s “Activate” link
+
+
+-----------------
+.
+got babylon-wordpress-plugin-master from github
+
+unzip and placed it in wp-content/plugin directory and activate link
+
+
+------------------
