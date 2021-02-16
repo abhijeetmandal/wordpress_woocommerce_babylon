@@ -12,3 +12,7 @@ Step#2: install woocommerce plugin
 
 STep#3: install babylon plugin
 
+--------------------------
+warning: stuck1: contains the code till tested display but looks not friendly.
+-------------------------
+
